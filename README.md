@@ -2,9 +2,18 @@
 
 **[slides](https://docs.google.com/presentation/d/1Ab4VBaTKPxoYT8USI5azwZxw4HfF24F86DvVbHJfL9Y/edit?usp=sharing)** (requires login to newschool.edu to view)
 
-**[Python code](https://github.com/aaronxhill/random/blob/master/random%20number%20experiments.ipynb)** to simulate the outcomes of the random number generating machine
+### machine: 
 
-**[P5.js](https://editor.p5js.org/aaronxhill/sketches/4JsQ5MQt)** code to show behavior of random() randomGaussian() and noise() methods
+* [about the coin toss](https://en.wikipedia.org/wiki/Coin_flipping)  
+* **[Python code](https://github.com/aaronxhill/random/blob/master/random%20number%20experiments.ipynb)** to simulate the outcomes of the random number generating machine  
+
+### generative art/design: 
+
+* **[P5.js](https://editor.p5js.org/aaronxhill/sketches/4JsQ5MQt)** code to show behavior of random() randomGaussian() and noise() methods  
+
+### games:
+
+* [Input/output randomness in games](https://youtu.be/dwI5b-wRLic)  
 
 ### Arena channels:
 
